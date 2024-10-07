@@ -21,7 +21,7 @@ Work experience
   * [School of Ocean and Civil Engineering](https://en.naoce.sjtu.edu.cn)
   * Co-supervisor: Prof. Jun Fan
 
-* 10/2018-11/2019: Research Assistant
+* 10/2018-11/2019: Visiting Research Student
   * <b>University of Southampton</b>
   * [Insitute of Sound and Vibration](https://www.southampton.ac.uk/about/faculties-schools-departments/school-of-engineering/institute-of-sound-and-vibration-research)
   * Co-supervisor: Prof. Victor F. Humphrey
