@@ -1,7 +1,8 @@
 ---
 title: "Test Accounts: An Introduction"
 collection: publications
-permalink: /publications/2010-10-01-paper-title-number-2
+category: manuscripts
+permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about testing.'
 date: 2020-07-08
 venue: 'J. Acoust. Soc. Am.'
