@@ -11,41 +11,30 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Underwater Acoustics, Harbin Engineering University, 2022. Topic: “Research on Measurements of the Radiated Noise from Shipping in Shallow Water” [HEU Doctoral Thesis Excellence (Only honor top 5% graduate students per year with excellent academic and scientific research capabilities)]
+* B.S. in Oceanic Technology, Dalian Ocean University, 2014
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Since 2022: Postdoctoral research fellow
+  * Shanghai Jiao Tone University
+  * [School of Ocean and Civil Engineering](https://en.naoce.sjtu.edu.cn)
+  * Co-supervisor: Prof. Jun Fan
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 10/2018-11/2019: Research Assistant
+  * University of Southampton
+  * [Insitute of Sound and Vibration](https://www.southampton.ac.uk/about/faculties-schools-departments/school-of-engineering/institute-of-sound-and-vibration-research)
+  * Co-supervisor: Prof. Victor F. Humphrey
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
-Skills
+Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2023  Shanghai Post-doctoral Excellence Program  (38K€)
+* 2023	HEU Doctoral Thesis Excellence (1.3K€)
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+11 publications ( J. Acoust. Soc. Am, J. Sound. Vib, Eng. Comput, Ocean. Eng, Phys. Fluids, IEEE. Commun. Lett) + 1 submitted. (90% first/corresponding author of  these publications; 90% in the field of acoustics)
   
 Talks
 ======
@@ -53,12 +42,16 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+Funding
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* 01.2024 – 12.2026: NSFC for Young Scientists (National level, 38K€) which supports me to work as an individual PI to study the mechanism of acoustic Fano resonances and the avoid-crossing behavior in a waveguide with an object.
+* 05.2023 – 05.2025: Stable Support Funding from NKLUAT (64K€) which supports me to work as an individual PI to develop a deep learning neural network to real-time predict large-scale, 3D underwater sound propagation.
+* 10.2018 – 11.2019: CSC (China)-ISVR (Soton, UK) joint project (15K€) which supports me to work as a visiting research student with Prof. Victor. F Humphrey and conduct theoretical and numerical study on developing standardization of underwater noise measurements for commercial vessels in shallow water.
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Since 2023	Associate Member of ASA.
+* Since 2020	Reviewer for peer-reviewed publications (>20) including: 
+  * Physics ( Phys. Fluids.);
+  * Acoustics (J. Acoust. Soc. Am, JASA. Express. Lett.);
+  * Engineering (Ocean. Eng, Adv. Eng. Softw, IEEE. J. Sel. Top. Appl. Earth. Obs. Remote. Sens, IEEE. Trans. Netw. Sci. Eng, Front. Mar. Sci, PLoS. One )
