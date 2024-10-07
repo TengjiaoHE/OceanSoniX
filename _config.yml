@@ -12,7 +12,7 @@ title                    : "OceanAcousticS"
 title_separator          : "-"
 name                     : &name "Tengjiao HE"
 description              : &description "Assistant Research Fellow"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://TengjiaoHe.github.io"
+url                      : https://TengjiaoHe.github.io # the base hostname & protocol for your site e.g. "https://TengjiaoHe.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "TengjiaoHe.github.io"
 
