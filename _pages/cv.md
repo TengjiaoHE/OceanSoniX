@@ -42,21 +42,21 @@ Talks
 
 * Invited talks
 
-*[D2] <u><b>T. He</b></u>, An order-reduced adiabatic mode model for three-dimensional underwater sound propagation: From theory to application, IEEE ICICSP Meeting ‘2024 (The 7th International Conference on Information Communication and Signal Processing), September 21-23, 2024, Zhoushan (China).
+  *[D2] <u><b>T. He</b></u>, An order-reduced adiabatic mode model for three-dimensional underwater sound propagation: From theory to application, IEEE ICICSP Meeting ‘2024 (The 7th International Conference on Information Communication and Signal Processing), September 21-23, 2024, Zhoushan (China).
 
-*[D1] <u><b>T. He</b></u>, 海洋波导中运动指向性辐射声场畸变机理研究, 海底-水体-水声联合建模及应用论坛, September 25-26, 2024, Guangzhou (China).
+  *[D1] <u><b>T. He</b></u>, 海洋波导中运动指向性辐射声场畸变机理研究, 海底-水体-水声联合建模及应用论坛, September 25-26, 2024, Guangzhou (China).
 
 * Contributed talks
   
-*[C5] <u><b>T. He</b></u>, R. Nie and B. Wang, Theoretical investigation of sound propagation from a moving directional source in a shallow-water waveguide, Sydney Acoustics ‘2023 (The 183th Meeting of the Acoustical Society of America), December 09-14, 2023, Sydney (Australia).
+  *[C5] <u><b>T. He</b></u>, R. Nie and B. Wang, Theoretical investigation of sound propagation from a moving directional source in a shallow-water waveguide, Sydney Acoustics ‘2023 (The 183th Meeting of the Acoustical Society of America), December 09-14, 2023, Sydney (Australia).
 
-*[C4] <u>R. Nie</u>, <b>T. He</b> and B. Wang, Extraction and analysis of three-dimensional sound scattering characteristics by body-generated internal waves, Sydney Acoustics ‘2023 (The 183th Meeting of the Acoustical Society of America), December 09-14, 2023, Sydney (Australia).  
+  *[C4] <u>R. Nie</u>, <b>T. He</b> and B. Wang, Extraction and analysis of three-dimensional sound scattering characteristics by body-generated internal waves, Sydney Acoustics ‘2023 (The 183th Meeting of the Acoustical Society of America), December 09-14, 2023, Sydney (Australia).  
 
-*[C3] T. He, Victor F Humphrey, S. Mo, and E. Fang, The effect of water surface roughness on the measurement of radiated ship noise, International Conference on Underwater Acoustics ‘2020 Southampton , September 09-11, 2019, Southampton (United Kingdom).  
+  *[C3] T. He, Victor F Humphrey, S. Mo, and E. Fang, The effect of water surface roughness on the measurement of radiated ship noise, International Conference on Underwater Acoustics ‘2020 Southampton , September 09-11, 2019, Southampton (United Kingdom).  
 
-*[C2] D. Yang, R. Zhang, S. Shi, and T. He, Sound radiation from a finite cylindrical shell with an irregular-shaped acoustic enclosure,  Acoustics ’17 New Orleans (The 175th Meeting of the Acoustical Society of America), October 01-07, 2017, New Orleans (United States). 
+  *[C2] D. Yang, R. Zhang, S. Shi, and T. He, Sound radiation from a finite cylindrical shell with an irregular-shaped acoustic enclosure,  Acoustics ’17 New Orleans (The 175th Meeting of the Acoustical Society of America), October 01-07, 2017, New Orleans (United States). 
 
-*[C1] <u><b>T. He</b></u>, S. Mo, and E. Fang, Underwater measurement of source level in waveguides using equivalent source method, Acoustics ’17 Boston (The 3rd Joint Meeting of the Acoustical Society of America and the European Acoustics Association), June 25-29, 2017, Boston (United States). 
+  *[C1] <u><b>T. He</b></u>, S. Mo, and E. Fang, Underwater measurement of source level in waveguides using equivalent source method, Acoustics ’17 Boston (The 3rd Joint Meeting of the Acoustical Society of America and the European Acoustics Association), June 25-29, 2017, Boston (United States). 
   
 Funding
 ======
