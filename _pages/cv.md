@@ -39,7 +39,11 @@ Publications
 Talks
 ======
 5 talks in international conferences: Sydney Acoustics 2023 (ASA-2023), Sydney, New South Wales, Australia ╳2; International Conference on Underwater Acoustics (ICUA-2020), September 09, 2020, Southampton, Hampshire, United Kingdom; the Acoustical Society of America meeting (ASA-2017), October 01, 2017, New Orleans, Louisiana, United States; the Acoustical Society of America meeting (ASA-2017), May 01, 2017, Boston, Massachusetts, United States.
+* Invited talks
+[D2] T. He, An order-reduced adiabatic mode model for three-dimensional underwater sound propagation: From theory to application, IEEE ICICSP Meeting ‘2024 (The 7th International Conference on Information Communication and Signal Processing), September 21-23, 2024, Zhoushan (China).
+[D1] T. He, 海洋波导中运动指向性辐射声场畸变机理研究, 海底-水体-水声联合建模及应用论坛, September 25-26, 2024, Guangzhou (China).
 
+* Contributed talks
 [C5] T. He, R. Nie and B. Wang, Theoretical investigation of sound propagation from a moving directional source in a shallow-water waveguide, Sydney Acoustics ‘2023 (The 183th Meeting of the Acoustical Society of America), December 09-14, 2023, Sydney (Australia).
 [C4] R. Nie, T. He and B. Wang, Extraction and analysis of three-dimensional sound scattering characteristics by body-generated internal waves, Sydney Acoustics ‘2023 (The 183th Meeting of the Acoustical Society of America), December 09-14, 2023, Sydney (Australia).  
 [C3] T. He, Victor F Humphrey, S. Mo, and E. Fang, The effect of water surface roughness on the measurement of radiated ship noise, International Conference on Underwater Acoustics ‘2020 Southampton , September 09-11, 2019, Southampton (United Kingdom).  
