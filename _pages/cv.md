@@ -52,9 +52,9 @@ Talks
 
   *[C4] <u>R. Nie</u>, <b>T. He</b> and B. Wang, Extraction and analysis of three-dimensional sound scattering characteristics by body-generated internal waves, Sydney Acoustics ‘2023 (The 183th Meeting of the Acoustical Society of America), December 09-14, 2023, Sydney (Australia).  
 
-  *[C3] T. He, Victor F Humphrey, S. Mo, and E. Fang, The effect of water surface roughness on the measurement of radiated ship noise, International Conference on Underwater Acoustics ‘2020 Southampton , September 09-11, 2019, Southampton (United Kingdom).  
+  *[C3] <b>T. He</b>, Victor F Humphrey, S. Mo, and E. Fang, The effect of water surface roughness on the measurement of radiated ship noise, International Conference on Underwater Acoustics ‘2020 Southampton , September 09-11, 2019, Southampton (United Kingdom).  
 
-  *[C2] D. Yang, R. Zhang, S. Shi, and T. He, Sound radiation from a finite cylindrical shell with an irregular-shaped acoustic enclosure,  Acoustics ’17 New Orleans (The 175th Meeting of the Acoustical Society of America), October 01-07, 2017, New Orleans (United States). 
+  *[C2] D. Yang, R. Zhang, S. Shi, and <b>T. He</b>, Sound radiation from a finite cylindrical shell with an irregular-shaped acoustic enclosure,  Acoustics ’17 New Orleans (The 175th Meeting of the Acoustical Society of America), October 01-07, 2017, New Orleans (United States). 
 
   *[C1] <u><b>T. He</b></u>, S. Mo, and E. Fang, Underwater measurement of source level in waveguides using equivalent source method, Acoustics ’17 Boston (The 3rd Joint Meeting of the Acoustical Society of America and the European Acoustics Association), June 25-29, 2017, Boston (United States). 
   
