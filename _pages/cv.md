@@ -38,9 +38,13 @@ Publications
   
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+5 talks in international conferences: Sydney Acoustics 2023 (ASA-2023), Sydney, New South Wales, Australia ╳2; International Conference on Underwater Acoustics (ICUA-2020), September 09, 2020, Southampton, Hampshire, United Kingdom; the Acoustical Society of America meeting (ASA-2017), October 01, 2017, New Orleans, Louisiana, United States; the Acoustical Society of America meeting (ASA-2017), May 01, 2017, Boston, Massachusetts, United States.
+
+[C5] T. He, R. Nie and B. Wang, Theoretical investigation of sound propagation from a moving directional source in a shallow-water waveguide, Sydney Acoustics ‘2023 (The 183th Meeting of the Acoustical Society of America), December 09-14, 2023, Sydney (Australia).
+[C4] R. Nie, T. He and B. Wang, Extraction and analysis of three-dimensional sound scattering characteristics by body-generated internal waves, Sydney Acoustics ‘2023 (The 183th Meeting of the Acoustical Society of America), December 09-14, 2023, Sydney (Australia).  
+[C3] T. He, Victor F Humphrey, S. Mo, and E. Fang, The effect of water surface roughness on the measurement of radiated ship noise, International Conference on Underwater Acoustics ‘2020 Southampton , September 09-11, 2019, Southampton (United Kingdom).  
+[C2] D. Yang, R. Zhang, S. Shi, and T. He, Sound radiation from a finite cylindrical shell with an irregular-shaped acoustic enclosure,  Acoustics ’17 New Orleans (The 175th Meeting of the Acoustical Society of America), October 01-07, 2017, New Orleans (United States). 
+[C1] T. He, S. Mo, and E. Fang, Underwater measurement of source level in waveguides using equivalent source method, Acoustics ’17 Boston (The 3rd Joint Meeting of the Acoustical Society of America and the European Acoustics Association), June 25-29, 2017, Boston (United States). 
   
 Funding
 ======
