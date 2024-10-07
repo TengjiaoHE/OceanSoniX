@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "[01]Three-dimensional sound scattering from transversely symmetric surface waves in deep and shallow water using the equivalent source method (Highlight of the computational acoustics section)"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
