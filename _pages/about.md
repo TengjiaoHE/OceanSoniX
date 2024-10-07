@@ -18,4 +18,4 @@ Dr. Tengjiao He's research interests encompass underwater acoustics, computation
 
 For more info
 ------
-More info about Dr. Tengjiao He's research can be found in [the Google Scholar]([https://academicpages.github.io/markdown/](https://scholar.google.com/citations?view_op=list_works&hl=en&user=yIHi56gAAAAJ)). The [researchgate]([https://mmistakes.github.io/minimal-mistakes/docs/configuration/](https://www.researchgate.net/profile/Tengjiao-He-3)) might also be helpful.
+More info about Dr. Tengjiao He's research can be found in [the Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=yIHi56gAAAAJ). The [researchgate](https://www.researchgate.net/profile/Tengjiao-He-3) might also be helpful.
