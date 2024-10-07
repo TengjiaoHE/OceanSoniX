@@ -11,18 +11,18 @@ redirect_from:
 
 Education
 ======
-* <b>Ph.D<\b> in Underwater Acoustics, Harbin Engineering University, 2022. Topic: “Research on Measurements of the Radiated Noise from Shipping in Shallow Water” [HEU Doctoral Thesis Excellence (Only honor top 5% graduate students per year with excellent academic and scientific research capabilities)]
-* <b>B.S<\b>. in Oceanic Technology, Dalian Ocean University, 2014
+* <b>Ph.D</b> in Underwater Acoustics, Harbin Engineering University, 2022. Topic: “Research on Measurements of the Radiated Noise from Shipping in Shallow Water” [HEU Doctoral Thesis Excellence (Only honor top 5% graduate students per year with excellent academic and scientific research capabilities)]
+* <b>B.S</b>. in Oceanic Technology, Dalian Ocean University, 2014
 
 Work experience
 ======
 * Since 2022: Postdoctoral research fellow
-  * <b>Shanghai Jiao Tone University<\b>
+  * <b>Shanghai Jiao Tone University</b>
   * [School of Ocean and Civil Engineering](https://en.naoce.sjtu.edu.cn)
   * Co-supervisor: Prof. Jun Fan
 
 * 10/2018-11/2019: Research Assistant
-  * <b>University of Southampton<\b>
+  * <b>University of Southampton</b>
   * [Insitute of Sound and Vibration](https://www.southampton.ac.uk/about/faculties-schools-departments/school-of-engineering/institute-of-sound-and-vibration-research)
   * Co-supervisor: Prof. Victor F. Humphrey
 
@@ -34,19 +34,19 @@ Awards
 
 Publications
 ======
-11 publications ( J. Acoust. Soc. Am, J. Sound. Vib, Eng. Comput, Ocean. Eng, Phys. Fluids, IEEE. Commun. Lett) + 1 submitted. (<b>90% first/corresponding author of  these publications<\b>; 90% in the field of acoustics)
+11 publications ( J. Acoust. Soc. Am, J. Sound. Vib, Eng. Comput, Ocean. Eng, Phys. Fluids, IEEE. Commun. Lett) + 1 submitted. (<b>90% first/corresponding author of  these publications</b>; 90% in the field of acoustics)
   
 Talks
 ======
 5 talks in international conferences: Sydney Acoustics 2023 (ASA-2023), Sydney, New South Wales, Australia ╳2; International Conference on Underwater Acoustics (ICUA-2020), September 09, 2020, Southampton, Hampshire, United Kingdom; the Acoustical Society of America meeting (ASA-2017), October 01, 2017, New Orleans, Louisiana, United States; the Acoustical Society of America meeting (ASA-2017), May 01, 2017, Boston, Massachusetts, United States.
 
-* <b>Invited talks<\b>
+* <b>Invited talks</b>
 (Speaker is <u>underlined</u>)
   *[D2] <u><b>T. He</b></u>, An order-reduced adiabatic mode model for three-dimensional underwater sound propagation: From theory to application, IEEE ICICSP Meeting ‘2024 (The 7th International Conference on Information Communication and Signal Processing), September 21-23, 2024, Zhoushan (China).
 
   *[D1] <u><b>T. He</b></u>, 海洋波导中运动指向性辐射声场畸变机理研究, 海底-水体-水声联合建模及应用论坛, September 25-26, 2024, Guangzhou (China).
 
-* <b>Contributed talks<\b>
+* <b>Contributed talks</b>
 (Speaker is <u>underlined</u>)
   *[C5] <u><b>T. He</b></u>, R. Nie and B. Wang, Theoretical investigation of sound propagation from a moving directional source in a shallow-water waveguide, Sydney Acoustics ‘2023 (The 183th Meeting of the Acoustical Society of America), December 09-14, 2023, Sydney (Australia).
 
@@ -60,9 +60,9 @@ Talks
   
 Funding
 ======
-* 01.2024 – 12.2026: <b>NSFC for Young Scientists<\b> (National level, 38K€) which supports me to work as an individual PI to study the mechanism of acoustic Fano resonances and the avoid-crossing behavior in a waveguide with an object.
-* 05.2023 – 05.2025: <b>Stable Support Funding from NKLUAT<\b> (64K€) which supports me to work as an individual PI to develop a deep learning neural network to real-time predict large-scale, 3D underwater sound propagation.
-* 10.2018 – 11.2019: <b>CSC (China)-ISVR (Soton, UK) joint project<\b> (15K€) which supports me to work as a visiting research student with Prof. Victor. F Humphrey and conduct theoretical and numerical study on developing standardization of underwater noise measurements for commercial vessels in shallow water.
+* 01.2024 – 12.2026: <b>NSFC for Young Scientists</b> (National level, 38K€) which supports me to work as an individual PI to study the mechanism of acoustic Fano resonances and the avoid-crossing behavior in a waveguide with an object.
+* 05.2023 – 05.2025: <b>Stable Support Funding from NKLUAT</b> (64K€) which supports me to work as an individual PI to develop a deep learning neural network to real-time predict large-scale, 3D underwater sound propagation.
+* 10.2018 – 11.2019: <b>CSC (China)-ISVR (Soton, UK) joint project</b> (15K€) which supports me to work as a visiting research student with Prof. Victor. F Humphrey and conduct theoretical and numerical study on developing standardization of underwater noise measurements for commercial vessels in shallow water.
   
 Service and leadership
 ======
