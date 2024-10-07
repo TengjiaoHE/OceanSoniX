@@ -66,8 +66,8 @@ Funding
   
 Service and leadership
 ======
-* Since 2023	Associate Member of ASA.
+* Since 2023	Associate Member of [the Acoustical Society of America](https://acousticalsociety.org/).
 * Since 2020	Reviewer for peer-reviewed publications (>20) including: 
-  * Physics ( Phys. Fluids.);
-  * Acoustics (J. Acoust. Soc. Am, JASA. Express. Lett.);
-  * Engineering (Ocean. Eng, Adv. Eng. Softw, IEEE. J. Sel. Top. Appl. Earth. Obs. Remote. Sens, IEEE. Trans. Netw. Sci. Eng, Front. Mar. Sci, PLoS. One )
+  * <b>Physics</b> ( Phys. Fluids.);
+  * <b>Acoustics</b> (J. Acoust. Soc. Am, JASA. Express. Lett.);
+  * <b>Engineering</b> (Ocean. Eng, Adv. Eng. Softw, IEEE. J. Sel. Top. Appl. Earth. Obs. Remote. Sens, IEEE. Trans. Netw. Sci. Eng, Front. Mar. Sci, PLoS. One )
