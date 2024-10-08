@@ -26,5 +26,5 @@ Welcome! the
 
 <a href="https://www.freecounterstat.com" title="counter for website"><img src="https://counter6.optistats.ovh/private/freecounterstat.php?c=eyejcqlza6n7mwfe19534lnmhw5fnzs6" border="0" title="counter for website" alt="counter for website"></a>
 
-th vistor of mine.
+vistor of mine.
 
