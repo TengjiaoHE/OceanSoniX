@@ -22,9 +22,8 @@ More info about Dr. Tengjiao He's research can be found in [the Google Scholar](
 
 <p></p>
 <br/><br/>
-Welcome, the
+Welcome, you have become the
+------
+<a href="https://www.freecounterstat.com" title="counter for website"><img src="https://counter6.optistats.ovh/private/freecounterstat.php?c=eyejcqlza6n7mwfe19534lnmhw5fnzs6" border="0" title="counter for website" alt="counter for website"></a> th vistor of OceanSoniX!
 
-<a href="https://www.freecounterstat.com" title="counter for website"><img src="https://counter6.optistats.ovh/private/freecounterstat.php?c=eyejcqlza6n7mwfe19534lnmhw5fnzs6" border="0" title="counter for website" alt="counter for website"></a>
-
-vistor of mine!
 
