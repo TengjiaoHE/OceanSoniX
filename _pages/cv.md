@@ -17,7 +17,7 @@ Education
 Work experience
 ======
 * Since 2022: Postdoctoral research fellow
-  * <b>Shanghai Jiao Tone University</b>
+  * <b>Shanghai Jiao Tong University</b>
   * [School of Ocean and Civil Engineering](https://en.naoce.sjtu.edu.cn)
   * Co-supervisor: Prof. Jun Fan
 
@@ -34,7 +34,7 @@ Awards
 
 Publications
 ======
-11 publications ( J. Acoust. Soc. Am, J. Sound. Vib, Eng. Comput, Ocean. Eng, Phys. Fluids, IEEE. Commun. Lett) + 1 submitted. (<b>90% first/corresponding author of  these publications</b>; 90% in the field of acoustics)
+11 publications ( <i>J. Acoust. Soc. Am, J. Sound. Vib, Eng. Comput, Ocean. Eng, Phys. Fluids, IEEE. Commun. Lett</i>) + 1 submitted. (<b>90% first/corresponding author of  these publications</b>; 90% in the field of acoustics)
   
 Talks
 ======
@@ -54,9 +54,9 @@ Talks
 
   <b>[4]</b> <u>R. Nie</u>, <b>T. He</b> and B. Wang, Extraction and analysis of three-dimensional sound scattering characteristics by body-generated internal waves, Sydney Acoustics ‘2023 (The 183th Meeting of the Acoustical Society of America), December 09-14, 2023, Sydney (Australia).  
 
-  <b>[3]</b> <b>T. He</b>, Victor F Humphrey, S. Mo, and E. Fang, The effect of water surface roughness on the measurement of radiated ship noise, International Conference on Underwater Acoustics ‘2020 Southampton , September 09-11, 2019, Southampton (United Kingdom).  
+  <b>[3]</b> <b>T. He</b>, <u>Victor F Humphrey</u>, S. Mo, and E. Fang, The effect of water surface roughness on the measurement of radiated ship noise, International Conference on Underwater Acoustics ‘2020 Southampton , September 09-11, 2019, Southampton (United Kingdom).  
 
-  <b>[2]</b> D. Yang, R. Zhang, S. Shi, and <b>T. He</b>, Sound radiation from a finite cylindrical shell with an irregular-shaped acoustic enclosure,  Acoustics ’17 New Orleans (The 175th Meeting of the Acoustical Society of America), October 01-07, 2017, New Orleans (United States). 
+  <b>[2]</b> D. Yang, <u>R. Zhang</u>, S. Shi, and <b>T. He</b>, Sound radiation from a finite cylindrical shell with an irregular-shaped acoustic enclosure,  Acoustics ’17 New Orleans (The 175th Meeting of the Acoustical Society of America), October 01-07, 2017, New Orleans (United States). 
 
   <b>[1]</b> <u><b>T. He</b></u>, S. Mo, and E. Fang, Underwater measurement of source level in waveguides using equivalent source method, Acoustics ’17 Boston (The 3rd Joint Meeting of the Acoustical Society of America and the European Acoustics Association), June 25-29, 2017, Boston (United States). 
   
@@ -70,6 +70,6 @@ Service and leadership
 ======
 * Since 2023	Associate Member of [the Acoustical Society of America](https://acousticalsociety.org/).
 * Since 2020	Reviewer for peer-reviewed publications (>20) including: 
-  * <b>Physics</b> ( Phys. Fluids.);
-  * <b>Acoustics</b> (J. Acoust. Soc. Am, JASA. Express. Lett.);
-  * <b>Engineering</b> (Ocean. Eng, Adv. Eng. Softw, IEEE. J. Sel. Top. Appl. Earth. Obs. Remote. Sens, IEEE. Trans. Netw. Sci. Eng, Front. Mar. Sci, PLoS. One )
+  * <b>Physics</b> ( <i>Phys. Fluids.</i>);
+  * <b>Acoustics</b> (<i>J. Acoust. Soc. Am, JASA. Express. Lett.</i>);
+  * <b>Engineering</b> (<i>Ocean. Eng, Adv. Eng. Softw, IEEE. J. Sel. Top. Appl. Earth. Obs. Remote. Sens, IEEE. Trans. Netw. Sci. Eng, Front. Mar. Sci, PLoS. One</i> )
