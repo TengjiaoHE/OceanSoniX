@@ -23,4 +23,5 @@ More info about Dr. Tengjiao He's research can be found in [the Google Scholar](
 <p></p>
 <br/><br/>
 
-<a href="https://www.freecounterstat.com" title="page counter"><img src="https://counter7.stat.ovh/private/freecounterstat.php?c=hfjftcg7cyeq3unurnue315jmxg6kwp6" border="0" title="page counter" alt="page counter"></a>
+<a href="https://www.freecounterstat.com" title="counter for website"><img src="https://counter6.optistats.ovh/private/freecounterstat.php?c=eyejcqlza6n7mwfe19534lnmhw5fnzs6" border="0" title="counter for website" alt="counter for website"></a>
+
