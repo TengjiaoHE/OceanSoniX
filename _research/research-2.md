@@ -1,6 +1,6 @@
 ---
 title: "Equivalent source-based acoustic modeling tools"
-permalink: /research/research-2.md
+permalink: /research/research-2
 excerpt: "Solving various engineering challenges, ranging from acoustic design in engines and ventilation systems to sound propagation in ice-covered oceans, using the powerful equivalent source method"
 collection: research
 ---
