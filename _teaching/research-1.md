@@ -20,3 +20,5 @@ The reduced-order adiabatic mode model allows for rapid predictions of longitudi
 <br/><img src='/images/3DUAP4.gif' width="1000" height="500">
 
 <br/><img src='/images/3DUAP5.gif' width="1000" height="500">
+
+One of the key features of the reduced-order adiabatic mode model is its inherent wide-angle capability, which facilitates a detailed and precise description of the complex characteristics of directional sources, such as surface vessels and underwater vehicles. Furthermore, the solution's expression as a double summation provides the foundation for developing an analytical term for a directional source that can be coupled with the reduced-order adiabatic mode. This aspect is still under development and will be addressed in future work.
