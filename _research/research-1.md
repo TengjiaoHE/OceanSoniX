@@ -12,15 +12,15 @@ One could argue that 3D modal coupling effects are a secondary factor in underwa
 
 Interactions with ocean dynamics
 ======
-<br/><img src='/images/3DUAP3.gif' width="1000" height="500">
+<img src='/images/3DUAP3.gif' width="1000" height="500">
 
 The reduced-order adiabatic mode model allows for rapid predictions of longitudinally invariant simulations, requiring only a few seconds of computational time. This is particularly useful when analyzing acoustic interactions with ocean dynamics, such as internal waves. For example, the model successfully reproduces the experimental conditions of the [SWARM95](https://pubs.aip.org/asa/jasa/article/117/2/613/541579/Measurement-and-modeling-of-three-dimensional) scenario, capturing observable pressure fluctuations modulated by the internal wave train. The bottom panel illustrates the normalized pressure as a function of time at the position of the receiver in the [SWARM95](https://pubs.aip.org/asa/jasa/article/117/2/613/541579/Measurement-and-modeling-of-three-dimensional) experiment. Achieving such results with the reduced-order adiabatic mode model requires only a few minutes of runtime, demonstrating its computational efficiency.
 
 3D directional source
 ======
-<br/><img src='/images/3DUAP4.gif' width="1000" height="500">
+<img src='/images/3DUAP4.gif' width="1000" height="500">
 
-<br/><img src='/images/3DUAP5.gif' width="1000" height="500">
+<img src='/images/3DUAP5.gif' width="1000" height="500">
 
 One of the key features of the reduced-order adiabatic mode model is its inherent wide-angle capability, which facilitates a detailed and precise description of the complex characteristics of directional sources, such as surface vessels and underwater vehicles. Furthermore, the solution's expression as a double summation provides the foundation for developing an analytical term for a directional source that can be coupled with the reduced-order adiabatic mode. This aspect is still under development and will be addressed in future work.
 
