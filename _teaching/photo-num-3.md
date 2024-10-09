@@ -6,6 +6,7 @@ type: "Contributed talk"
 permalink: /teaching/photo-num-3
 date: 2017-07-25
 location: "Boston, United States"
+venue: "Boston, United States"
 ---
 
 <br/><img src='/images/ASA2017BOS1.jpg'>
