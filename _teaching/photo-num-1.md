@@ -6,6 +6,7 @@ type: "Invited talk"
 permalink: /teaching/photo-num-1
 date: 2024-09-21
 location: "Zhoushan, China"
+venue: "Zhoushan, China"
 ---
 
 <br/><img src='/images/IEEE2024ICICSP1.jpg'>
