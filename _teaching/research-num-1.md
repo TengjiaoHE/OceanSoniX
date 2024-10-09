@@ -9,6 +9,7 @@ location: ""
 type: "Workshop"
 ---
 
+Modeling and vistualizing the acoustic interations with the realistic ocean including intricate topography, 3D sound speed distribution, and ocean dynamics!
 
 Order-reduced adiabatic mode model
 ======
