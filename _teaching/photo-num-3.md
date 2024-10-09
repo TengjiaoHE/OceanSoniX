@@ -1,7 +1,11 @@
 ---
 title: "Acoustics’17 Boston (The 3rd Joint Meeting of the Acoustical Society of America and the European Acoustics Association)"
-excerpt: "June 25-29, 2017, Boston (United States)<br/><img src='/images/ASA2017BOS1.jpg'>"
+excerpt: "<br/><img src='/images/ASA2017BOS1.jpg'>"
 collection: photos
+type: "Contributed talk"
+permalink: /teaching/photo-num-3
+date: 2017-07-25
+location: "Boston, United States"
 ---
 
 <br/><img src='/images/ASA2017BOS1.jpg'>
