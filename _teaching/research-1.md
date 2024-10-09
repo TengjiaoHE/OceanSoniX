@@ -13,6 +13,7 @@ Interactions with ocean dynamics
 ======
 <br/><img src='/images/3DUAP3.gif' width="1000" height="500">
 
+The reduced-order adiabatic mode model allows for rapid predictions of longitudinally invariant simulations, requiring only a few seconds of computational time. This is particularly useful when analyzing acoustic interactions with ocean dynamics, such as internal waves. For example, the model successfully reproduces the experimental conditions of the SWARM95 scenario, capturing observable pressure fluctuations modulated by the internal wave train. The bottom panel illustrates the normalized pressure as a function of time at the position of the receiver in the SWARM95 experiment. Achieving such results with the reduced-order adiabatic mode model requires only a few minutes of runtime, demonstrating its computational efficiency.
 
 3D directional source
 ======
