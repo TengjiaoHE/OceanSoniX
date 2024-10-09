@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "3D mode theory for underwater acoustic propagation from both omnidirectional and directional sources"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
