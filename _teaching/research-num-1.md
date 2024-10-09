@@ -4,6 +4,8 @@ permalink: /teaching/research-num-1
 collection: research
 excerpt: "Modeling and vistualizing the acoustic interations with the realistic ocean including intricate topography, 3D sound speed distribution, and ocean dynamics <img src='/images/3DUAP2.png'>"
 ---
+
+
 Order-reduced adiabatic mode model
 ======
 <img src='/images/3DUAP1.png'>
