@@ -2,10 +2,8 @@
 title: "3D mode theory for underwater acoustic propagation from both omnidirectional and directional sources"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/research-1
+excerpt: "September 21-23, 2024, Zhoushan (China)<br/><img src='/images/3DUAP1.png'>"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
