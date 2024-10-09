@@ -6,7 +6,7 @@
 
 main:
   - title: "Research"
-    url: /teaching/
+    url: /portfolio/
     
   - title: "Publications"
     url: /publications/
@@ -15,4 +15,4 @@ main:
     url: /cv/
 
   - title: "Photos"
-    url: /portfolio/
+    url: /teaching/
