@@ -6,6 +6,7 @@ type: "Contributed talk"
 permalink: /teaching/photo-num-2
 date: 2023-12-09
 location: "Sydney, Australia"
+venue: "Sydney, Australia"
 ---
 
 <br/><img src='/images/ASA2023SYD1.jpg'>
