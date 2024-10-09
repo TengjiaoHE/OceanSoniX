@@ -4,7 +4,7 @@ permalink: /research/research-num-2
 excerpt: "Solving various engineering challenges, ranging from acoustic design in engines and ventilation systems to sound propagation in ice-covered oceans, using the powerful equivalent source method"
 collection: research
 venue: ""
-date: 
+date: ""
 location: ""
 type: "Workshop"
 ---
