@@ -1,16 +1,20 @@
 ---
-title: "Equivalent source-based acoustic modeling tools"
-excerpt: "Solving various engineering challenges, ranging from acoustic design in engines and ventilation systems to sound propagation in ice-covered oceans, using the powerful equivalent source method"
-collection: research
+title: "Teaching experience 2"
+collection: teaching
+type: "Workshop"
+permalink: /teaching/2015-spring-teaching-1
+venue: "University 1, Department"
+date: 2015-01-01
+location: "City, Country"
 ---
 
-The Equivalent Source Method (ESM) finds extensive application in computational acoustics, especially in addressing complex boundary-value problems. Our objective is to develop numerical tools capable of addressing various engineering challenges, ranging from acoustic design in engines and ventilation systems to sound propagation in ice-covered oceans, utilizing the ESM. Specifically, we enhance the capabilities of ESM, a boundary integral-based method traditionally limited to homogeneous media, to address inhomogeneous media.
+This is a description of a teaching experience. You can use markdown like any other post.
 
-Large-scale 3D underwater acoustic propagation
+Heading 1
 ======
 
-Sound propagation in flow ducts
+Heading 2
 ======
 
-Animal acoustics mimicing dolphin detection
+Heading 3
 ======
