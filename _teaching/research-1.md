@@ -14,6 +14,9 @@ Order-reduced adiabatic mode model
 Interactions with ocean dynamics
 ======
 <br/><img src='/images/3DUAP3.gif'>"
+“`markdown
+![Alt text](/images/3DUAP3.MP4)
+“`
 
 3D directional source
 ======
