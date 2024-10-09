@@ -13,7 +13,7 @@ Order-reduced adiabatic mode model
 
 Interactions with ocean dynamics
 ======
-<br/><img src='/images/ISW_omnidirectional.avi.mp4'>"
+<br/><img src='/images/3DUAP3.gif'>"
 
 3D directional source
 ======
