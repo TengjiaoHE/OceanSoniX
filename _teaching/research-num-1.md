@@ -1,11 +1,12 @@
 ---
-title: "3D mode theory for underwater acoustic propagation from both omnidirectional and directional sources"
+title: "3D modal theory for underwater acoustic propagation from both omnidirectional and directional sources"
 permalink: /teaching/research-num-1
 collection: research
 excerpt: "Modeling and vistualizing the acoustic interations with the realistic ocean including intricate topography, 3D sound speed distribution, and ocean dynamics <img src='/images/3DUAP2.png'>"
 venue: ""
 date: 
 location: ""
+type: "Workshop"
 ---
 
 
