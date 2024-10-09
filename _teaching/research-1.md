@@ -9,11 +9,11 @@ One could argue that 3D modal coupling effects are a secondary factor in underwa
 
 Order-reduced adiabatic mode model
 ======
-
 <br/><img src='/images/3DUAP1.png'>"
 
-Heading 2
+Interactions with ocean dynamics
 ======
+<br/><img src='/images/ISW_omnidirectional.avi.mp4'>"
 
-Heading 3
+3D directional source
 ======
