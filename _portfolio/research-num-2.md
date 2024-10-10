@@ -12,13 +12,13 @@ Large-scale 3D underwater acoustic propagation
 ======
 3D full-wave simulations are essential for benchmarking underwater acoustic propagation with complex topographies. They are also useful for investigating 3D propagation effects, such as horizontal refraction and transverse coupling. Nevertheless, conducting 3D full-wave simulations using existing numerical approaches like FEM and BEM has been challenging due to limited computational resources. To address this challenge, we developed a powerful new numerical tool capable of handling the complex stratified ocean environment. In particular, computational efficiency is significantly enhanced by O(N1-2) compared with conventional numerical methods.
 
-<img src='/OceanSonix/images/ESM2.png'>
+<img src='/images/ESM2.png'>
 
-<img src='/OceanSonix/images/ESM3.gif'>
+<img src='/images/ESM3.gif'>
 
-<img src='/OceanSonix/images/ESM4.gif'>
+<img src='/images/ESM4.gif'>
 
-<img src='/OceanSonix/images/ESM5.png'>
+<img src='/images/ESM5.png'>
 
 Sound propagation in flow ducts
 ======
