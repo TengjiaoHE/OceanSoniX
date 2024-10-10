@@ -25,4 +25,4 @@ Sound propagation in flow ducts
 
 Animal acoustics mimicing dolphin detection
 ======
-<img src='/OceanSonix/images/ESM7.gif'>
+<img src='/images/ESM7.gif'>
