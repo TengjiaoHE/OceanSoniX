@@ -1,6 +1,6 @@
 ---
 title: "3D modal theory for underwater acoustic propagation"
-excerpt: "Modeling and visualization of acoustic interactions within realistic ocean environments, such as intricate topography, 3D sound speed distributions, and dynamic ocean conditions <img src='/images/3DUAP2.png'>"
+excerpt: "Modeling and visualization of acoustic interactions within realistic ocean environments, such as intricate topography, 3D sound speed distributions, and dynamic ocean conditions <br/> <img src='../images/3DUAP2.png'>"
 permalink: /portfolio/research-num-1
 collection: research
 ---
@@ -12,7 +12,7 @@ Order-reduced adiabatic mode model
 
 One could argue that 3D modal coupling effects are a secondary factor in underwater acoustic propagation, where horizontal refraction dominates. This suggests that the adiabatic assumption, which only accounts for horizontal refraction, is beneficial for modeling in most realistic scenarios due to its numerical efficiency compared to the fully coupled mode solution. Our aim is to develop a model order reduction technique to solve HREs. This model highlights that only a few seconds are required for longitudinally invariant environments, providing a naturally wide-angle solution. Additionally, it enables efficient and accurate solutions on a coarse grid for fully 3D environments, which will be useful for developing a fully coupled model and for propagation control in future work.
 
-<img src='/images/3DUAP1.png'>
+<br/> <img src='/images/3DUAP1.png'>
 
 Interactions with ocean dynamics
 ======
