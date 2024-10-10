@@ -14,9 +14,9 @@ Large-scale 3D underwater acoustic propagation
 
 <img src='/images/ESM2.png'>
 
-<img src='/images/ESM3.gif'>
+<img src='/images/ESM3.gif' width="1000" height="500">
 
-<img src='/images/ESM4.gif'>
+<img src='/images/ESM4.gif' width="1000" height="500">
 
 <img src='/images/ESM5.png'>
 
@@ -25,4 +25,4 @@ Sound propagation in flow ducts
 
 Animal acoustics mimicing dolphin detection
 ======
-<img src='/images/ESM7.gif'>
+<img src='/images/ESM7.gif' width="1000" height="500">
