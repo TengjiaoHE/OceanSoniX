@@ -14,9 +14,12 @@ Large-scale 3D underwater acoustic propagation
 
 <br/><img src='../images/ESM2.png'>
 
+Based on this approach, we can implement the large-scale 3D underwater acoustic propagation using realastic bathmetry dataset with very high accurcy. This would be very useful for benchmarking and investigating 3D propagation effects. It somehow becomes very suitable for generating time-domain simulations, as shown down below. Check our recent work for more detail.
 <br/><img src='../images/ESM3.gif' width="1000" height="500">
 
+We also extend the ESM-based model's capability to handle sound propagation in the ice-covered ocean. The developped model can capture the detailed propagation characteristic of both acoutic and elasic waves traveling within an ice/water coupled system. See the clip given down below for the demonstration using the developed model. Check our recent work for more detail.
 <br/><img src='../images/ESM4.gif' width="1000" height="500">
+
 
 <br/><img src='../images/ESM5.png'>
 
