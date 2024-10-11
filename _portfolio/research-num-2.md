@@ -14,13 +14,13 @@ Large-scale 3D underwater acoustic propagation
 
 <br/><img src='../images/ESM2.png'>
 
-Based on this approach, we can implement the large-scale 3D underwater acoustic propagation using realastic bathmetry dataset with very high accurcy. This would be very useful for benchmarking and investigating 3D propagation effects. It somehow becomes very suitable for generating time-domain simulations, as shown down below. Check our recent work for more detail.
+Based on this approach, we can implement the large-scale 3D underwater acoustic propagation using realastic bathmetry dataset with very high accurcy. This would be very useful for benchmarking and investigating 3D propagation effects. It somehow becomes very suitable for generating time-domain simulations, as shown down below, the time-domain propagation in a costal wedge covered by a rough sea surface. Check our recent work for more detail.
 <br/><img src='../images/ESM3.gif' width="1000" height="500">
 
 We also extend the ESM-based model's capability to handle sound propagation in the ice-covered ocean. The developped model can capture the detailed propagation characteristic of both acoutic and elasic waves traveling within an ice/water coupled system. See the clip given down below for the demonstration using the developed model. Check our recent work for more detail.
 <br/><img src='../images/ESM4.gif' width="1000" height="500">
 
-
+When considering realistic scenarios in the ocean, the source charateristics can be very complicated. We implement a coupled model, in which the FEM is used to simulate the intricate radiation pattern produced by any types of sources. This work gives the first attempt to couple the structural acoustic radiation with the 3D underwater acoustic propagation, which will be useful for the evaluation of sonar performances.
 <br/><img src='../images/ESM5.png'>
 
 Sound propagation in flow ducts
