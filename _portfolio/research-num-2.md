@@ -25,8 +25,14 @@ In realistic ocean scenarios, source characteristics can be highly complex. We h
 
 Sound propagation in flow ducts
 ======
+Theoretical modeling of sound propagation in lined ducts is essential for understanding waveguide physics. We have developed ESM-FLOW, a meshless, wave-based method for simulating sound propagation in 3D axisymmetric lined ducts. ESM-FLOW accurately captures the effects of airflow on sound propagation, making it highly applicable for acoustic design in engines and ventilation systems. The example below illustrates sound propagation within a flow duct with a uniform, high-speed flow (Mach 0.7) at varying frequencies. For further details, please refer to our recent work.
+
 <br/><img src='../images/ESM6.png'>
+
+ESM-FLOW enables modal analysis, which is particularly useful for identifying critical spanning and transverse modes that dominate the sound field in high-speed flow environments.
 <br/><img src='../images/ESM6-2.png'>
+
+Another key feature of ESM-FLOW is its capability to accommodate non-uniform flows in the solution, a challenge that most boundary-integral formulation (BIF) methods face. The example provided demonstrates the accuracy of ESM-FLOW through direct comparison with FEM results.
 <br/><img src='../images/ESM6-3.png'>
 
 Animal acoustics mimicing dolphin detection
