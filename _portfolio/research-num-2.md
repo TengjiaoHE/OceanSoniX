@@ -25,6 +25,9 @@ In realistic ocean scenarios, source characteristics can be highly complex. We h
 
 Sound propagation in flow ducts
 ======
+<br/><img src='../images/ESM6.png'>
+<br/><img src='../images/ESM6-2.png'>
+<br/><img src='../images/ESM6-3.png'>
 
 Animal acoustics mimicing dolphin detection
 ======
