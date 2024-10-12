@@ -12,7 +12,7 @@ Large-scale 3D underwater acoustic propagation
 ======
 3D full-wave simulations are essential for benchmarking underwater acoustic propagation with complex topographies. They are also useful for investigating 3D propagation effects, such as horizontal refraction and transverse coupling. Nevertheless, conducting 3D full-wave simulations using existing numerical approaches like FEM and BEM has been challenging due to limited computational resources. To address this challenge, we developed a powerful new numerical tool capable of handling the complex stratified ocean environment. In particular, computational efficiency is significantly enhanced by O(N1-2) compared with conventional numerical methods.
 
-<br/><img src='../images/ESM2.png'>
+<img src='../images/ESM2.png'>
 
 By utilizing this approach, we can achieve large-scale 3D underwater acoustic propagation with high accuracy, using realistic bathymetry datasets. This method is particularly useful for benchmarking and exploring 3D propagation effects. It also proves highly effective for generating time-domain simulations, such as the time-domain propagation in a coastal wedge covered by a rough sea surface, as demonstrated below. For further details, please refer to our recent work.
 <br/><img src='../images/ESM3.gif' width="1000" height="500">
