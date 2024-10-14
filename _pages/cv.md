@@ -71,5 +71,5 @@ Service and leadership
 * Since 2023	Associate Member of [the Acoustical Society of America](https://acousticalsociety.org/).
 * Since 2020	Reviewer for peer-reviewed publications (>20) including: 
   * <b>Physics</b> ( <i>Phys. Fluids.</i>);
-  * <b>Acoustics</b> (<i>J. Acoust. Soc. Am, JASA. Express. Lett.</i>);
+  * <b>Acoustics</b> (<i>J. Acoust. Soc. Am, J. Sound. Vib, JASA. Express. Lett.</i>);
   * <b>Engineering</b> (<i>Ocean. Eng, Adv. Eng. Softw, IEEE. J. Sel. Top. Appl. Earth. Obs. Remote. Sens, IEEE. Trans. Netw. Sci. Eng, Front. Mar. Sci, PLoS. One</i> )
