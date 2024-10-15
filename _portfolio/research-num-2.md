@@ -10,7 +10,7 @@ The Equivalent Source Method (ESM) finds extensive application in computational 
 
 Large-scale 3D underwater acoustic propagation
 ======
-3D full-wave simulations are essential for benchmarking underwater acoustic propagation with complex topographies. They are also useful for investigating 3D propagation effects, such as horizontal refraction and transverse coupling. Nevertheless, conducting 3D full-wave simulations using existing numerical approaches like FEM and BEM has been challenging due to limited computational resources. To address this challenge, we developed a powerful new numerical tool capable of handling the complex stratified ocean environment. In particular, computational efficiency is significantly enhanced by O(N1-2) compared with conventional numerical methods.
+3D full-wave simulations are essential for benchmarking underwater acoustic propagation with complex topographies. They are also useful for investigating 3D propagation effects, such as horizontal refraction and transverse coupling. Nevertheless, conducting 3D full-wave simulations using existing numerical approaches like FEM and BEM has been challenging due to limited computational resources. To address this challenge, we developed a powerful new numerical tool capable of handling the complex stratified ocean environment. In particular, computational efficiency is significantly enhanced by O(N1-2) compared with conventional numerical methods. For further details, please refer to [our recent work]('https://pubs.aip.org/asa/jasa/article/150/4/2854/996056/Modeling-three-dimensional-underwater-acoustic').
 
 <img src='../images/ESM2.png'>
 
