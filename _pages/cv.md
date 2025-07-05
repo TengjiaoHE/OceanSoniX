@@ -16,6 +16,11 @@ Education
 
 Work experience
 ======
+* Since 2025: Postdoctoral research fellow
+  * <b>Nanyang Technological University</b>
+  * [Ultrasonics and NDE Group](https://www3.ntu.edu.sg/home/zfan/webpage/people.html)
+  * Co-supervisor: Prof. David Fan
+  * 
 * Since 2022: Postdoctoral research fellow
   * <b>Shanghai Jiao Tong University</b>
   * [School of Ocean and Civil Engineering](https://en.naoce.sjtu.edu.cn)
