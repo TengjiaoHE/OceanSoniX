@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Tengjiao He (何腾蛟) is currently a Postdoctoral Research Fellow at Shanghai Jiao Tong University (SJTU) in Shanghai, China. He received his B.S. degree in Ocean Technology from Dalian Ocean University (DOU) in 2014 and his Ph.D. in Underwater Acoustic Engineering from Harbin Engineering University (HEU) in 2022. From October 2018 to November 2019, he was a visiting scholar at the University of Southampton, UK, working with the Acoustics Group led by Prof. Victor F. Humphrey. Since December 2022, he has been a postdoctoral researcher under the supervision of Prof. Jun Fan at SJTU.
+Tengjiao He (何腾蛟) is currently a Postdoctoral Research Fellow at Shanghai Jiao Tong University (SJTU) in Shanghai, China. He received his B.S. degree in Ocean Technology from Dalian Ocean University (DOU) in 2014 and his Ph.D. in Underwater Acoustic Engineering from Harbin Engineering University (HEU) in 2022. From October 2018 to November 2019, he was a visiting scholar at the University of Southampton, UK, working with the Acoustics Group led by Prof. Victor F. Humphrey. Since December 2022, he has been a postdoctoral researcher under the supervision of Prof. Jun Fan at SJTU. From March 2025, he has joined in the NDT group led by Prof. David Fan in Nanyang Technological University. 
 
 
 Research interests
