@@ -39,7 +39,7 @@ Awards
 
 Publications
 ======
-11 publications ( <i>J. Acoust. Soc. Am, J. Sound. Vib, Eng. Comput, Ocean. Eng, Phys. Fluids, IEEE. Commun. Lett</i>) + 1 submitted. (<b>90% first/corresponding author of  these publications</b>; 90% in the field of acoustics)
+14 publications ( <i>J. Acoust. Soc. Am, J. Sound. Vib, Eng. Comput, Ocean. Eng, Phys. Fluids, IEEE. Commun. Lett</i>) + 1 submitted. (<b>90% first/corresponding author of  these publications</b>; 90% in the field of acoustics)
   
 Talks
 ======
