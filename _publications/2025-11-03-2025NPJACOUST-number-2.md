@@ -2,11 +2,11 @@
 title: "Broadband enhancement and suppression of backscattering from objects in shallow-sea waveguides through the prescription of incident wavefronts"
 category: manuscripts
 permalink: /publication/2025-11-03-2025NPJACOUST-number-2
-excerpt: '<b> A practical tool for assessing the adverse impact of shipping noise on marine fauna, achieving 3D directional underwater acoustic propagation using a single propagation model run.</b>'
+excerpt: '<b> A methodology for enhancing and suppressing backscattering from submerged objects in shallow-water waveguides through manipulation of the incident waves.</b>'
 date: 2025-11-03
 venue: 'npj Acoust.'
 paperurl: http://TengjiaoHE.github.io/OceanSoniX/files/2025-11-03-2025NPJACOUST-number-2.pdf
-citation: '<b>T. He</b> and W. Guo, Broadband enhancement and suppression of backscattering from objects in shallow-sea waveguides through the prescription of incident wavefronts, <i>npj Acoust. </i>, 1, 27 (2025) ([https://doi.org/10.1016/j.jsv.2025.119253](https://doi.org/10.1038/s44384-025-00033-6))'
+citation: '<b>T. He</b> and W. Guo, Broadband enhancement and suppression of backscattering from objects in shallow-sea waveguides through the prescription of incident wavefronts, <i>npj Acoust. </i>, 1, 27 (2025) (https://doi.org/10.1038/s44384-025-00033-6)'
 ---
 
 ## Abstract
